@@ -5,6 +5,7 @@ tags: [software architecture, architecture patterns]
 header:
   overlay_image: "/assets/images/plitvice_full.jpg"
   show_overlay_excerpt: false
+  teaser: "/assets/images/plitvice_full.jpg"
 ---
 
 ## Software architecture
