@@ -58,9 +58,7 @@ header:
     </figure>
 
 	* Pipe and Filter
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Data-flow_Pipe_Filter.png" alt="Pipe and Filter" class="align-center">
-    </figure>
+  ![Pipe and Filter]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Pipe_Filter.png)
 
 	* Process Control
 
@@ -68,31 +66,20 @@ header:
 
 * Data-centered
 	* Blackboard
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Data-centered_Blackboard.png" alt="Blackboard" class="align-center">
-    </figure>
+  ![Blackboard]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Blackboard.png)
 
 	* Repository
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Data-centered_Repository.png" alt="Repository" class="align-center">
-    </figure>
+  ![Repository]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Repository.png)
 
 	* Expert system rule-based
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Data-centered_Expert_system.png" alt="Expert system" class="align-center">
-    </figure>
+  ![Expert system]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Expert_system.png)
 
 * Independent components
 	* Implicit invocation
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Independent_components_implicit.png" alt="Implicit" class="align-center">
-    </figure>
+  ![Implicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png)
 
 	* Explicit invocation
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Independent_components_explicit.png" alt="Explicit" class="align-center">
-    </figure>
-
+  ![Explicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_explicit.png)
 
 ## Architecture patterns categories
 
