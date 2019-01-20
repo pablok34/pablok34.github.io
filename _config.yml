@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Pablo Kauffman"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/me.jpg"
   bio              : "Software developer"
   location         : "Italy"
   email            :
