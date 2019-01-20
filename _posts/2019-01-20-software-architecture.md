@@ -48,7 +48,7 @@ header:
 
 	* Layered architectures
 		<figure class="half">
-      <img src="/assets/images/Architecture_styles_layers.png" alt="Layered" class="align-center">
+      <img src="/assets/images/Architecture_styles_layers.png" alt="Layered " class="align-center">
     </figure>
 
 * Data-flow
@@ -115,7 +115,7 @@ header:
 
 * MVC
 
-	![MVC](resources/img/MVC.png)
+	![MVC]({{site.url}}{{site.baseurl}}/assets/images/MVC.png)
 
 * Layered Pattern
 
