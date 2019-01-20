@@ -4,7 +4,6 @@ date: 2019-01-20
 tags: [software architecture, architecture patterns]
 header:
   overlay_image: "/assets/images/plitvice_full.jpg"
-  excerpt: "Software architecture documantation"
 ---
 
 ## Software architecture
