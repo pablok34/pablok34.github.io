@@ -3,7 +3,7 @@ title: "Software architecture"
 date: 2019-01-20
 tags: [software architecture, architecture patterns]
 header:
-  image: "/assets/images/plitvice_full.jpg"
+  overlay_image: "/assets/images/plitvice_full.jpg"
   excerpt: "Software architecture documantation"
 ---
 
@@ -33,11 +33,11 @@ header:
 
 * Call and return
 	* Main program and subroutine architecture
-
     {% include figure image_path="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine" caption="Main program and subroutine." %}
-	* Remote procedure call architecture
 
-		![Remote procedure call](resources/img/Architecture_styles_Remote_procedure_call.png)
+	* Remote procedure call architecture
+    {% include figure image_path="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call" caption="Remote procedure call" %}
+		
 	* Object-oriented architectures
 
 		![Object-oriented](resources/img/Architecture_styles_Object_oriented.png)
