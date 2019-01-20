@@ -1,6 +1,7 @@
 ---
 title: "About"
 permalink: /about/
+layout: single
 header:
   overlay_image: "/assets/images/plitvice_full.jpg"
 ---
