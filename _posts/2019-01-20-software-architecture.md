@@ -47,17 +47,16 @@ header:
     </figure>
 
 	* Layered architectures
-		<figure class="half">
-      <img src="/assets/images/Architecture_styles_layers.png" alt="Layered " class="align-center">
-    </figure>
+
+  ![Layered]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_layers.png)
 
 * Data-flow
 	* Batch Sequential
-  	<figure class="half">
-      <img src="/assets/images/Architecture_styles_Data-flow_Batch_Sequential.png" alt="Sequential" class="align-center">
-    </figure>
+
+  ![Sequential]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Batch_Sequential.png)
 
 	* Pipe and Filter
+
   ![Pipe and Filter]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Pipe_Filter.png)
 
 	* Process Control
@@ -66,19 +65,24 @@ header:
 
 * Data-centered
 	* Blackboard
+
   ![Blackboard]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Blackboard.png)
 
 	* Repository
+
   ![Repository]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Repository.png)
 
 	* Expert system rule-based
+
   ![Expert system]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Expert_system.png)
 
 * Independent components
 	* Implicit invocation
+
   ![Implicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png)
 
 	* Explicit invocation
+
   ![Explicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_explicit.png)
 
 ## Architecture patterns categories
