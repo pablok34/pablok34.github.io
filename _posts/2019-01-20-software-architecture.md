@@ -80,7 +80,7 @@ header:
 
 	* Explicit invocation
 
-  ![Explicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_explicit.png)
+    ![Explicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_explicit.png)
 
 ## Architecture patterns categories
 
