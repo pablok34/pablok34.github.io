@@ -32,11 +32,17 @@ header:
 
 * Call and return
 	* Main program and subroutine architecture
-    {% include figure image_path="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine" caption="Main program and subroutine." %}
+    <figure>
+      <img src="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine">
+      <figcaption>Main program and subroutine.</figcaption>
+    </figure>
 
 	* Remote procedure call architecture
-    {% include figure image_path="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call" caption="Remote procedure call" %}
-		
+    <figure>
+      <img src="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call">
+      <figcaption>Remote procedure call.</figcaption>
+    </figure>
+    
 	* Object-oriented architectures
 
 		![Object-oriented](resources/img/Architecture_styles_Object_oriented.png)
