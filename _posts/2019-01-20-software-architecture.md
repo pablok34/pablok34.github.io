@@ -34,51 +34,64 @@ header:
 	* Main program and subroutine architecture
     <figure class="half">
       <img src="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine" class="align-center">
-      <figcaption>Main program and subroutine.</figcaption>
     </figure>
 
 	* Remote procedure call architecture
     <figure class="half">
       <img src="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call" class="align-center">
-      <figcaption>Remote procedure call.</figcaption>
     </figure>
 
 	* Object-oriented architectures
+    <figure class="half">
+      <img src="/assets/images/Architecture_styles_Object_oriented.png" alt="Object oriented" class="align-center">
+    </figure>
 
-		![Object-oriented](resources/img/Architecture_styles_Object_oriented.png)
 	* Layered architectures
-		
-		![Layered](resources/img/Architecture_styles_layers.png)
+		<figure class="half">
+      <img src="/assets/images/Architecture_styles_layers.png" alt="Layered" class="align-center">
+    </figure>
 
 * Data-flow
 	* Batch Sequential
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Data-flow_Batch_Sequential.png" alt="Sequential" class="align-center">
+    </figure>
 
-		![Sequential](resources/img/Architecture_styles_Data-flow_Batch_Sequential.png)
 	* Pipe and Filter
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Data-flow_Pipe_Filter.png" alt="Pipe and Filter" class="align-center">
+    </figure>
 
-		![Pipe and Filter](resources/img/Architecture_styles_Data-flow_Pipe_Filter.png)
 	* Process Control
 
 		The data is neither batched sequential nor pipelined stream. The flow of data comes from a set of variables, which controls the execution of process. It decomposes the entire system into subsystems or modules and connects them.
 
 * Data-centered
 	* Blackboard
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Data-centered_Blackboard.png" alt="Blackboard" class="align-center">
+    </figure>
 
-		![Blackboard](resources/img/Architecture_styles_Data-centered_Blackboard.png)
 	* Repository
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Data-centered_Repository.png" alt="Repository" class="align-center">
+    </figure>
 
-		![Repository](resources/img/Architecture_styles_Data-centered_Repository.png)
 	* Expert system rule-based
-
-		![Expert system](resources/img/Architecture_styles_Data-centered_Expert_system.png)
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Data-centered_Expert_system.png" alt="Expert system" class="align-center">
+    </figure>
 
 * Independent components
 	* Implicit invocation
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Independent_components_implicit.png" alt="Implicit" class="align-center">
+    </figure>
 
-		![Implicit](resources/img/Architecture_styles_Independent_components_implicit.png)
 	* Explicit invocation
-
-		![Explicit](resources/img/Architecture_styles_Independent_components_explicit.png)
+  	<figure class="half">
+      <img src="/assets/images/Architecture_styles_Independent_components_explicit.png" alt="Explicit" class="align-center">
+    </figure>
 
 
 ## Architecture patterns categories
