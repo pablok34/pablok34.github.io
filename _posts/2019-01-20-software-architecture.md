@@ -32,19 +32,16 @@ header:
 
 * Call and return
 	* Main program and subroutine architecture
-    <figure class="half">
-      <img src="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine" class="align-center">
-    </figure>
+
+  ![Main program and subroutine]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Main_program_subroutine.png)
 
 	* Remote procedure call architecture
-    <figure class="half">
-      <img src="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call" class="align-center">
-    </figure>
+
+  ![Remote procedure call]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Remote_procedure_call.png)
 
 	* Object-oriented architectures
-    <figure class="half">
-      <img src="/assets/images/Architecture_styles_Object_oriented.png" alt="Object oriented" class="align-center">
-    </figure>
+
+  ![Object oriented]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Object_oriented.png)
 
 	* Layered architectures
 
@@ -110,35 +107,35 @@ header:
 
 * Layered Pattern
 
-	![Layered](resources/img/Architecture_styles_layers.png)
+	![Layered]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_layers.png)
 
 * Microkernel - plug-in
 
-	![Microkernel](resources/img/Microkernel_plug-in.png)
+	![Microkernel]({{site.url}}{{site.baseurl}}/assets/images/Microkernel_plug-in.png)
 
 * CQRS
 
-	![CQRS](resources/img/CQRS.png)
+	![CQRS]({{site.url}}{{site.baseurl}}/assets/images/CQRS.png)
 
 * Event-driven
 
-	![Event-driven](resources/img/Architecture_styles_Independent_components_implicit.png)
+	![Event-driven]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png)
 
 * Microservices
 
-	![Microservices](resources/img/Microservices.png)
+	![Microservices]({{site.url}}{{site.baseurl}}/assets/images/Microservices.png)
 
 * Domain-driven
 
-	![Domain-driven](resources/img/Domain-driven.png)
+	![Domain-driven]({{site.url}}{{site.baseurl}}/assets/images/Domain-driven.png)
 
 * Hexagonal
 
-	![Hexagonal](resources/img/Hexagonal.png)
+	![Hexagonal]({{site.url}}{{site.baseurl}}/assets/images/Hexagonal.png)
 
 * Shared-Nothing
 
-	![Shared-Nothing](resources/img/Shared-Nothing.png)
+	![Shared-Nothing]({{site.url}}{{site.baseurl}}/assets/images/Shared-Nothing.png)
 
 * Combined
 
