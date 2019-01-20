@@ -33,16 +33,16 @@ header:
 * Call and return
 	* Main program and subroutine architecture
     <figure>
-      <img src="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine">
+      <img src="/assets/images/Architecture_styles_Main_program_subroutine.png" alt="Main program and subroutine" class="align-center">
       <figcaption>Main program and subroutine.</figcaption>
     </figure>
 
 	* Remote procedure call architecture
     <figure>
-      <img src="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call">
+      <img src="/assets/images/Architecture_styles_Remote_procedure_call.png" alt="Remote procedure call" class="align-center">
       <figcaption>Remote procedure call.</figcaption>
     </figure>
-    
+
 	* Object-oriented architectures
 
 		![Object-oriented](resources/img/Architecture_styles_Object_oriented.png)
