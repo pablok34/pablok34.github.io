@@ -33,28 +33,28 @@ header:
 * Call and return
 	* Main program and subroutine architecture
 
-  ![Main program and subroutine]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Main_program_subroutine.png)
+  ![Main program and subroutine]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Main_program_subroutine.png){:class="align-center"}
 
 	* Remote procedure call architecture
 
-  ![Remote procedure call]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Remote_procedure_call.png)
+  ![Remote procedure call]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Remote_procedure_call.png){:class="align-center"}
 
 	* Object-oriented architectures
 
-  ![Object oriented]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Object_oriented.png)
+  ![Object oriented]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Object_oriented.png){:class="align-center"}
 
 	* Layered architectures
 
-  ![Layered]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_layers.png)
+  ![Layered]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_layers.png){:class="align-center"}
 
 * Data-flow
 	* Batch Sequential
 
-  ![Sequential]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Batch_Sequential.png)
+  ![Sequential]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Batch_Sequential.png){:class="align-center"}
 
 	* Pipe and Filter
 
-  ![Pipe and Filter]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Pipe_Filter.png)
+  ![Pipe and Filter]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-flow_Pipe_Filter.png){:class="align-center"}
 
 	* Process Control
 
@@ -63,20 +63,20 @@ header:
 * Data-centered
 	* Blackboard
 
-  ![Blackboard]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Blackboard.png)
+  ![Blackboard]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Blackboard.png){:class="align-center"}
 
 	* Repository
 
-  ![Repository]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Repository.png)
+  ![Repository]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Repository.png){:class="align-center"}
 
 	* Expert system rule-based
 
-  ![Expert system]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Expert_system.png)
+  ![Expert system]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Data-centered_Expert_system.png){:class="align-center"}
 
 * Independent components
 	* Implicit invocation
 
-  ![Implicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png)
+  ![Implicit]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png){:class="align-center"}
 
 	* Explicit invocation
 
@@ -103,39 +103,39 @@ header:
 
 * MVC
 
-	![MVC]({{site.url}}{{site.baseurl}}/assets/images/MVC.png)
+	![MVC]({{site.url}}{{site.baseurl}}/assets/images/MVC.png){:class="align-center"}
 
 * Layered Pattern
 
-	![Layered]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_layers.png)
+	![Layered]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_layers.png){:class="align-center"}
 
 * Microkernel - plug-in
 
-	![Microkernel]({{site.url}}{{site.baseurl}}/assets/images/Microkernel_plug-in.png)
+	![Microkernel]({{site.url}}{{site.baseurl}}/assets/images/Microkernel_plug-in.png){:class="align-center"}
 
 * CQRS
 
-	![CQRS]({{site.url}}{{site.baseurl}}/assets/images/CQRS.png)
+	![CQRS]({{site.url}}{{site.baseurl}}/assets/images/CQRS.png){:class="align-center"}
 
 * Event-driven
 
-	![Event-driven]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png)
+	![Event-driven]({{site.url}}{{site.baseurl}}/assets/images/Architecture_styles_Independent_components_implicit.png){:class="align-center"}
 
 * Microservices
 
-	![Microservices]({{site.url}}{{site.baseurl}}/assets/images/Microservices.png)
+	![Microservices]({{site.url}}{{site.baseurl}}/assets/images/Microservices.png){:class="align-center"}
 
 * Domain-driven
 
-	![Domain-driven]({{site.url}}{{site.baseurl}}/assets/images/Domain-driven.png)
+	![Domain-driven]({{site.url}}{{site.baseurl}}/assets/images/Domain-driven.png){:class="align-center"}
 
 * Hexagonal
 
-	![Hexagonal]({{site.url}}{{site.baseurl}}/assets/images/Hexagonal.png)
+	![Hexagonal]({{site.url}}{{site.baseurl}}/assets/images/Hexagonal.png){:class="align-center"}
 
 * Shared-Nothing
 
-	![Shared-Nothing]({{site.url}}{{site.baseurl}}/assets/images/Shared-Nothing.png)
+	![Shared-Nothing]({{site.url}}{{site.baseurl}}/assets/images/Shared-Nothing.png){:class="align-center"}
 
 * Combined
 
